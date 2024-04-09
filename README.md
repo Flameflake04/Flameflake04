@@ -2,8 +2,6 @@
 #### About me:
 - 😄 Pronoun: He/Him
 - 👨‍💻 Nationality: Vietnamese
-- 
-#### Education:
 - 🎓 Computer Science student at UIC
 - 🧠 AI & ML Researcher
 - 🏢 Currently at The Marshall Lab
