@@ -1,18 +1,18 @@
 ### Hi there 👋
 Hi! 👋
-🎓 Computer Science student at UIC
-🧠 AI & ML Researcher
-🏢 Currently at The Marshall Lab
+- 🎓 Computer Science student at UIC
+- 🧠 AI & ML Researcher
+- 🏢 Currently at The Marshall Lab
 Experience
-🧬 Bioinformatics Research Fellow
-🤖 Machine Learning Research Fellow
-💻 Computer Algorithms Research Fellow
+- 🧬 Bioinformatics Research Fellow
+- 🤖 Machine Learning Research Fellow
+- 💻 Computer Algorithms Research Fellow
 Projects
-📸 Photo Editor (Python, React)
-✍️ Handwriting Number Recognition (Tensorflow)
-➕ Integral Calculator (C++)
+- 📸 Photo Editor (Python, React)
+- ✍️ Handwriting Number Recognition (Tensorflow)
+- ➕ Integral Calculator (C++)
 Skills
-👨‍💻 Python, C/C++, JavaScript
-🛠️ React, Node.js, Git
-📊 Pandas, Scikit-learn, TensorFlow
+- 👨‍💻 Python, C/C++, JavaScript
+- 🛠️ React, Node.js, Git
+- 📊 Pandas, Scikit-learn, TensorFlow
 Let's connect! 😊
