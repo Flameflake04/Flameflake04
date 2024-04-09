@@ -1,4 +1,4 @@
-### Hi there my name is Duc Tran. Welcome to my profile, bio below: 👋
+### Hi there my name is Duc Tran. Welcome to my github, bio below: 👋
 #### About me:
 - 😄 Pronoun: He/Him
 - 👨‍💻 Nationality: Vietnamese
