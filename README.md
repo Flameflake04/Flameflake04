@@ -6,7 +6,7 @@
 - 🧠 AI & ML Researcher
 #### Experience:
 - 🧬 Bioinformatics Research Fellow (UIC Biology Lab)
-- 🤖 Machine Learning Internship (FPT Coperation)
+- 🤖 Data Science Internship (FPT Coperation)
 #### Projects:
 - 📸 Photo Editor (Python, React)
 - ✍️ Stock Price Predictor (Web App with AI backend)
